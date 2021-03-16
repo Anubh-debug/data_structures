@@ -1,3 +1,5 @@
+/*traversal of binary tree is O(n)*/
+
 #include<stdio.h>
 #include<stdlib.h>
 struct node{
